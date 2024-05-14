@@ -6,7 +6,7 @@ format: html
 
 :::{.columns}
 :::{.column width="20%"}
-![Profile Pic](imgs/profile.jpg)
+![Picture](imgs/profile.jpg)
 :::
 
 :::{.column width="80%"}
