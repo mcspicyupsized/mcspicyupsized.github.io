@@ -8,7 +8,7 @@ format: html
 ### Playing Frisbee
 I enjoy playing Frisbee occasionally, especially during weekends. It's a great way to stay active, enjoy the outdoors, and spend time with friends. I've been lucky enough to participate in a few competitions, though most of the time I spend playing it recreationally.
   
-![2nd Placing at Frisbee Competition](imgs/frisbee.jpeg)
+![2nd Placing at Frisbee Competition](imgs/frisbee.jpeg){.lightbox}
 
 ### Playing Drums
 
@@ -18,4 +18,4 @@ The physicality of drumming is matched by its mental benefits. It requires coord
 
 I particularly enjoy playing in various styles, from rock and jazz to funk and blues. Each style offers unique challenges and opportunities for creativity. Drumming has also allowed me to meet and collaborate with other musicians, expanding my social network and deepening my appreciation for music.
 
-![Drums](imgs/drums.jpg)
+![Drums](imgs/drums.jpg){.lightbox}
