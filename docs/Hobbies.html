@@ -40,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -95,6 +98,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./hobbies.html"> 
@@ -160,7 +167,7 @@ ul.task-list li input[type="checkbox"] {
 <p>I enjoy playing Frisbee occasionally, especially during weekends. It’s a great way to stay active, enjoy the outdoors, and spend time with friends. I’ve been lucky enough to participate in a few competitions, though most of the time I spend playing it recreationally.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="imgs/frisbee.jpeg" class="img-fluid figure-img"></p>
+<p><a href="imgs/frisbee.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="2nd Placing at Frisbee Competition"><img src="imgs/frisbee.jpeg" class="img-fluid figure-img" alt="2nd Placing at Frisbee Competition"></a></p>
 <figcaption>2nd Placing at Frisbee Competition</figcaption>
 </figure>
 </div>
@@ -172,12 +179,16 @@ ul.task-list li input[type="checkbox"] {
 <p>I particularly enjoy playing in various styles, from rock and jazz to funk and blues. Each style offers unique challenges and opportunities for creativity. Drumming has also allowed me to meet and collaborate with other musicians, expanding my social network and deepening my appreciation for music.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="imgs/drums.jpg" class="img-fluid figure-img"></p>
+<p><a href="imgs/drums.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="quarto-lightbox-gallery-2" title="Drums"><img src="imgs/drums.jpg" class="img-fluid figure-img" alt="Drums"></a></p>
 <figcaption>Drums</figcaption>
 </figure>
 </div>
 
 
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">2nd Placing at Frisbee Competition</span>
+<span class="glightbox-desc lightbox-desc-2">Drums</span>
+</div>
 </section>
 </section>
 
@@ -592,6 +603,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","selector":".lightbox","openEffect":"zoom","loop":false,"closeEffect":"zoom"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
