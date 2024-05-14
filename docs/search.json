@@ -1,100 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Academic Profile",
-    "section": "",
-    "text": "Student\nApplied Artificial Intelligence\n\n[Singapore Institute of Technology (SIT)]\n\nAddress: 172 Ang Mo Kio Ave 8, Singapore 567739\n\n\n\n\nLinkedin\nGitHub\n\n\n\n\nReceived a Biomedical Engineering Diploma from Temasek Polytechnic, and is currently studying in Applied Artificial Intelligence in Singapore Institute of Technology.\n\n\n\n\n2017-2020, Biomedical Engineering, Temasek Polytechnic\n2023-2026., Applied Artificial Intelligence, Singapore Institute of Technology\n\n\n\n\n\nPhone: +65 96251009\nEmail: 2302689@sit.singaporetech.edu.sg"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "About me",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#links",
-    "href": "index.html#links",
-    "title": "Academic Profile",
-    "section": "",
-    "text": "Linkedin\nGitHub"
-  },
-  {
-    "objectID": "index.html#short-bio",
-    "href": "index.html#short-bio",
-    "title": "Academic Profile",
-    "section": "",
-    "text": "Received a Biomedical Engineering Diploma from Temasek Polytechnic, and is currently studying in Applied Artificial Intelligence in Singapore Institute of Technology."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Academic Profile",
-    "section": "",
-    "text": "2017-2020, Biomedical Engineering, Temasek Polytechnic\n2023-2026., Applied Artificial Intelligence, Singapore Institute of Technology"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Academic Profile",
-    "section": "",
-    "text": "Area of Interest 1\nArea of Interest 2\nArea of Interest 3"
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Academic Profile",
-    "section": "",
-    "text": "A list of selected publications: 1. Author Names (Year). Paper Title. Journal Name, Volume(Issue), Pages. Link to paper 2. Author Names (Year). Paper Title. Journal Name, Volume(Issue), Pages. Link to paper"
-  },
-  {
-    "objectID": "index.html#patents",
-    "href": "index.html#patents",
-    "title": "Academic Profile",
-    "section": "",
-    "text": "Patent 1 Description\nPatent 2 Description"
-  },
-  {
-    "objectID": "index.html#awards-and-honors",
-    "href": "index.html#awards-and-honors",
-    "title": "Academic Profile",
-    "section": "",
-    "text": "Year, Award Name, Awarding Organization\nYear, Award Name, Awarding Organization"
-  },
-  {
-    "objectID": "index.html#professional-service",
-    "href": "index.html#professional-service",
-    "title": "Academic Profile",
-    "section": "",
-    "text": "Role, Name of Organization, Years\nRole, Name of Organization, Years"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Academic Profile",
-    "section": "",
-    "text": "Phone: +65 96251009\nEmail: 2302689@sit.singaporetech.edu.sg"
-  },
-  {
     "objectID": "Hobbies.html",
     "href": "Hobbies.html",
     "title": "Hobbies",
     "section": "",
-    "text": "I enjoy playing frisbee occasionally, especially during weekends. It’s a great way to stay active, enjoy the outdoors, and spend time with friends. I’ve been lucky enough to participate in a few competitions, though most of the time I spend playing it recreationaly.\n\n\n\nImage placeholder for frisbee playing\n\n\n\n\n\nPlaying video games is another hobby I’m passionate about. It allows me to unwind and engage in various virtual worlds. From strategy games and intense shooters to immersive RPGs, gaming is a way for me to relax and occasionally connect with friends online.\n\n\n\nImage placeholder for gaming"
+    "text": "I enjoy playing Frisbee occasionally, especially during weekends. It’s a great way to stay active, enjoy the outdoors, and spend time with friends. I’ve been lucky enough to participate in a few competitions, though most of the time I spend playing it recreationally.\n\n\n\n2nd Placing at Frisbee Competition\n\n\n\n\n\nPlaying drums is more than just a hobby; it’s a passion that infuses rhythm into every part of my life. I began drumming at a young age and have found it to be a powerful way to express myself and relieve stress. Drumming isn’t just about keeping tempo; it’s about creating a backbone for the music and energizing the entire band.\nThe physicality of drumming is matched by its mental benefits. It requires coordination, timing, and rhythm, which are skills that have helped me in many other areas of life. Whether I’m practicing alone or playing with a group, drumming gives me a sense of accomplishment and joy.\nI particularly enjoy playing in various styles, from rock and jazz to funk and blues. Each style offers unique challenges and opportunities for creativity. Drumming has also allowed me to meet and collaborate with other musicians, expanding my social network and deepening my appreciation for music.\n\n\n\nDrums"
   },
   {
     "objectID": "Hobbies.html#hobbies",
     "href": "Hobbies.html#hobbies",
     "title": "Hobbies",
     "section": "",
-    "text": "I enjoy playing frisbee occasionally, especially during weekends. It’s a great way to stay active, enjoy the outdoors, and spend time with friends. I’ve been lucky enough to participate in a few competitions, though most of the time I spend playing it recreationaly.\n\n\n\nImage placeholder for frisbee playing\n\n\n\n\n\nPlaying video games is another hobby I’m passionate about. It allows me to unwind and engage in various virtual worlds. From strategy games and intense shooters to immersive RPGs, gaming is a way for me to relax and occasionally connect with friends online.\n\n\n\nImage placeholder for gaming"
+    "text": "I enjoy playing Frisbee occasionally, especially during weekends. It’s a great way to stay active, enjoy the outdoors, and spend time with friends. I’ve been lucky enough to participate in a few competitions, though most of the time I spend playing it recreationally.\n\n\n\n2nd Placing at Frisbee Competition\n\n\n\n\n\nPlaying drums is more than just a hobby; it’s a passion that infuses rhythm into every part of my life. I began drumming at a young age and have found it to be a powerful way to express myself and relieve stress. Drumming isn’t just about keeping tempo; it’s about creating a backbone for the music and energizing the entire band.\nThe physicality of drumming is matched by its mental benefits. It requires coordination, timing, and rhythm, which are skills that have helped me in many other areas of life. Whether I’m practicing alone or playing with a group, drumming gives me a sense of accomplishment and joy.\nI particularly enjoy playing in various styles, from rock and jazz to funk and blues. Each style offers unique challenges and opportunities for creativity. Drumming has also allowed me to meet and collaborate with other musicians, expanding my social network and deepening my appreciation for music.\n\n\n\nDrums"
+  },
+  {
+    "objectID": "Travel_experience.html",
+    "href": "Travel_experience.html",
+    "title": "website",
+    "section": "",
+    "text": "Travel Experiences\nTraveling is one of my favorite ways to explore new cultures, cuisines, and landscapes. Each journey brings new experiences and memories that I cherish. From bustling cities to serene landscapes, each destination has offered unique insights and adventures that have enriched my life.\nHere’s a summary of the places I’ve visited over the years:\n\n\n\nYear\nDestinations\n\n\n\n\n2016\nParis, France\n\n\n2017\nTokyo, Japan\n\n\n2018\nNew York, USA\n\n\n2019\nSydney, Australia\n\n\n2020\nCape Town, South Africa\n\n\n2021\nBerlin, Germany\n\n\n2023\nRio de Janeiro, Brazil\n\n\n2024\nVancouver, Canada\n\n\n\nEach location has its own story, from the historic streets of Paris to the vibrant landscapes of Rio de Janeiro. Traveling not only allows me to unwind and take a break from the daily routine but also inspires creativity and new ideas.\n```"
   }
 ]
