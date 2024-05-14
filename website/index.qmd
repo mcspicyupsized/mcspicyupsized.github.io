@@ -3,11 +3,21 @@ title: "Academic Profile"
 format: html
 ---
 
-# [Nigel Ong]
+
+:::{.columns}
+:::{.column width="20%"}
+![Profile Pic](imgs/profile.jpg)
+:::
+
+:::{.column width="80%"}
+- **Nigel Ong**
 - Student
 - Applied Artificial Intelligence  
 - [Singapore Institute of Technology (SIT)] 
 - **Address:** 172 Ang Mo Kio Ave 8, Singapore 567739
+:::
+
+:::
 
 ## Links
 - [Linkedin](https://www.linkedin.com/in/ong-ju-en-nigel-45276b1b2/)
