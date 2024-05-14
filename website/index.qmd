@@ -6,7 +6,7 @@ format: html
 # [Nigel Ong]
 - Student
 - Applied Artificial Intelligence  
-- [Singapore Institute of Technology (SIT)]  
+- [Singapore Institute of Technology (SIT)] 
 - **Address:** 172 Ang Mo Kio Ave 8, Singapore 567739
 
 ## Links
