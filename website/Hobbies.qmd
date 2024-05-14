@@ -1,0 +1,16 @@
+---
+title: "Hobbies"
+format: html
+---
+
+## Hobbies
+
+### Playing Frisbee
+I enjoy playing frisbee occasionally, especially during weekends. It's a great way to stay active, enjoy the outdoors, and spend time with friends. I've been lucky enough to participate in a few competitions, though most of the time I spend playing it recreationaly.
+
+![Image placeholder for frisbee playing](path/to/your/frisbee-image.jpg)
+
+### Gaming
+Playing video games is another hobby I'm passionate about. It allows me to unwind and engage in various virtual worlds. From strategy games and intense shooters to immersive RPGs, gaming is a way for me to relax and occasionally connect with friends online.
+
+![Image placeholder for gaming](path/to/your/gaming-image.jpg)

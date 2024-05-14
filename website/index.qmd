@@ -1,0 +1,27 @@
+---
+title: "Academic Profile"
+format: html
+---
+
+# [Nigel Ong]
+- Student
+- Applied Artificial Intelligence  
+- [Singapore Institute of Technology (SIT)]  
+- **Address:** 172 Ang Mo Kio Ave 8, Singapore 567739
+
+## Links
+- [Linkedin](https://www.linkedin.com/in/ong-ju-en-nigel-45276b1b2/)
+- [GitHub](https://github.com/mcspicyupsized)
+
+## Short Bio
+Received a Biomedical Engineering Diploma from Temasek Polytechnic, and is currently studying in Applied Artificial Intelligence in Singapore Institute of Technology.
+
+## Education    
+- **2017-2020, Biomedical Engineering**, Temasek Polytechnic
+- **2023-2026., Applied Artificial Intelligence**, Singapore Institute of Technology
+
+
+## Contact
+- **Phone:** +65 96251009
+- **Email:** [2302689@sit.singaporetech.edu.sg](mailto:2302689@sit.singaporetech.edu.sg)
+
