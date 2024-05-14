@@ -4,7 +4,9 @@ project:
 
 website:
   title: "website"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.html
         text: Home
@@ -18,6 +20,8 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 
